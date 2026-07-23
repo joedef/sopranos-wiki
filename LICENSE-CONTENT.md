@@ -32,7 +32,7 @@ This license covers only the original content created by this project's contribu
 - Any trademark, logo, poster art, or still photograph belonging to HBO, Warner Bros. Discovery, or another rights holder
 - Quotations from critics, interviews, or other third-party writing, which remain the property of their authors and appear here only as brief attributed quotation for commentary and criticism
 
-This is an independent, non-commercial fan project and is not affiliated with, authorized by, or endorsed by any rights holder.
+This is an independent fan project and is not affiliated with, authorized by, or endorsed by any rights holder. It may carry affiliate links and accept contributions to cover costs; see the Support page.
 
 ## Contributor agreement
 

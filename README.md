@@ -49,4 +49,4 @@ Good first contributions:
 
 ## Disclaimer
 
-An independent, non-commercial fan project. **Not affiliated with, authorized by, or endorsed by** HBO, Warner Bros. Discovery, Chase Films, or any rights holder. *The Sopranos* and related marks belong to their owners. No script text or copyrighted imagery is reproduced here beyond brief quotation for commentary and criticism.
+An independent fan project. **Not affiliated with, authorized by, or endorsed by** HBO, Warner Bros. Discovery, Chase Films, or any rights holder. *The Sopranos* and related marks belong to their owners. No script text or copyrighted imagery is reproduced here beyond brief quotation for commentary and criticism. The site carries affiliate links and accepts contributions to cover costs — see [Support the Project](https://joedef.github.io/sopranos-wiki/support/).

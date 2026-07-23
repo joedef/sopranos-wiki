@@ -1,0 +1,9 @@
+# GitHub reads this file to show a "Sponsor" button on the repository.
+# The custom link always works — it points at the wiki's Support page.
+# When you enrol in a funding platform, uncomment the relevant line and fill
+# in your handle. See MONETIZATION-SETUP.md at the repo root.
+
+# github: [your-github-username]   # requires GitHub Sponsors enrolment
+# ko_fi: your-ko-fi-handle
+# buy_me_a_coffee: your-bmac-handle
+custom: ["https://joedef.github.io/sopranos-wiki/support/"]

@@ -98,6 +98,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 extra:
+  # Paste the token from Google Search Console (URL-prefix property, HTML-tag
+  # method) between the quotes to verify the site. See MONETIZATION-SETUP.md.
+  google_site_verification: ""
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/joedef/sopranos-wiki
@@ -109,6 +112,7 @@ nav:
       - index.md
       - start-here.md
       - the-ending.md
+      - Support the Project: support.md
   - The Series:
       - series/index.md
       - Season 1 (1999): series/season-1.md

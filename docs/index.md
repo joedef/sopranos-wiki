@@ -108,4 +108,4 @@ Plus [***The Many Saints of Newark***](series/the-many-saints-of-newark.md) (202
 Everything here is plain Markdown in a public repository, licensed CC BY-SA 4.0. Corrections are the most useful contribution you can make — see [Contributing](https://github.com/joedef/sopranos-wiki/blob/main/CONTRIBUTING.md).
 
 !!! note "Not affiliated with anybody"
-    An independent, non-commercial fan project. Not affiliated with, authorized by, or endorsed by HBO, Warner Bros. Discovery, or David Chase. No script text or copyrighted imagery is reproduced beyond brief quotation for commentary and criticism.
+    An independent fan project. Not affiliated with, authorized by, or endorsed by HBO, Warner Bros. Discovery, or David Chase. No script text or copyrighted imagery is reproduced beyond brief quotation for commentary and criticism. The site carries affiliate links and accepts contributions — see [Support the Project](support.md).
