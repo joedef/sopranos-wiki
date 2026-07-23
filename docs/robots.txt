@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joedef.github.io/sopranos-wiki/sitemap.xml

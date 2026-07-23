@@ -1,0 +1,202 @@
+site_name: The Sopranos Wiki
+site_description: >-
+  An open-source, wiki-style reference and critical analysis of The Sopranos —
+  David Chase's HBO series, all 86 episodes, the characters, the cast and
+  writers' room, the prequel film, and the ending nobody has stopped arguing about.
+site_url: https://joedef.github.io/sopranos-wiki/
+repo_url: https://github.com/joedef/sopranos-wiki
+repo_name: joedef/sopranos-wiki
+edit_uri: edit/main/docs/
+copyright: >-
+  Content licensed CC BY-SA 4.0 · Code licensed MIT · An independent fan project,
+  not affiliated with or endorsed by HBO, Warner Bros. Discovery, or David Chase.
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  icon:
+    logo: material/television-classic
+    repo: fontawesome/brands/github
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Follow system theme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search:
+      separator: '[\s​\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - tags
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/joedef/sopranos-wiki
+      name: This project on GitHub
+  generator: false
+
+nav:
+  - Home:
+      - index.md
+      - start-here.md
+      - the-ending.md
+  - The Series:
+      - series/index.md
+      - Season 1 (1999): series/season-1.md
+      - Season 2 (2000): series/season-2.md
+      - Season 3 (2001): series/season-3.md
+      - Season 4 (2002): series/season-4.md
+      - Season 5 (2004): series/season-5.md
+      - Season 6 (2006–07): series/season-6.md
+      - The Many Saints of Newark: series/the-many-saints-of-newark.md
+      - After The Sopranos: series/after-the-sopranos.md
+  - Characters:
+      - characters/index.md
+      - Family Tree: characters/family-tree.md
+      - Tony Soprano: characters/tony-soprano.md
+      - Carmela Soprano: characters/carmela-soprano.md
+      - Dr. Jennifer Melfi: characters/dr-melfi.md
+      - Christopher Moltisanti: characters/christopher-moltisanti.md
+      - Livia Soprano: characters/livia-soprano.md
+      - Junior Soprano: characters/junior-soprano.md
+      - Paulie Walnuts: characters/paulie-walnuts.md
+      - Silvio Dante: characters/silvio-dante.md
+      - Adriana La Cerva: characters/adriana-la-cerva.md
+      - Janice Soprano: characters/janice-soprano.md
+      - Meadow Soprano: characters/meadow-soprano.md
+      - A.J. Soprano: characters/aj-soprano.md
+      - Big Pussy Bonpensiero: characters/big-pussy.md
+      - Ralph Cifaretto: characters/ralph-cifaretto.md
+      - Richie Aprile: characters/richie-aprile.md
+      - Johnny Sack: characters/johnny-sack.md
+      - Phil Leotardo: characters/phil-leotardo.md
+      - Bobby Baccalieri: characters/bobby-baccalieri.md
+      - Furio Giunta: characters/furio-giunta.md
+      - Artie Bucco: characters/artie-bucco.md
+      - Tony Blundetto: characters/tony-blundetto.md
+      - Vito Spatafore: characters/vito-spatafore.md
+      - Minor Characters: characters/minor-characters.md
+  - People:
+      - people/index.md
+      - David Chase: people/david-chase.md
+      - James Gandolfini: people/james-gandolfini.md
+      - Edie Falco: people/edie-falco.md
+      - Michael Imperioli: people/michael-imperioli.md
+      - Lorraine Bracco: people/lorraine-bracco.md
+      - Dominic Chianese: people/dominic-chianese.md
+      - Tony Sirico: people/tony-sirico.md
+      - Steven Van Zandt: people/steven-van-zandt.md
+      - Drea de Matteo: people/drea-de-matteo.md
+      - Nancy Marchand: people/nancy-marchand.md
+      - Aida Turturro: people/aida-turturro.md
+      - Joe Pantoliano: people/joe-pantoliano.md
+      - Vincent Pastore: people/vincent-pastore.md
+      - Iler & Sigler: people/iler-and-sigler.md
+      - The Writers' Room: people/the-writers-room.md
+      - The Directors: people/the-directors.md
+      - Supporting Cast: people/supporting-cast.md
+  - Analysis:
+      - analysis/index.md
+      - Themes: analysis/themes.md
+      - Tony's Arc: analysis/tonys-arc.md
+      - Therapy & Melfi: analysis/therapy-and-melfi.md
+      - Reading the Ending: analysis/reading-the-ending.md
+      - Dreams & Symbolism: analysis/dreams-and-symbolism.md
+      - The Women: analysis/the-women.md
+      - Italian-American Identity: analysis/italian-american-identity.md
+      - Food & Ritual: analysis/food-and-ritual.md
+      - Music: analysis/music.md
+      - Direction & Craft: analysis/direction-and-craft.md
+      - Comedy: analysis/comedy.md
+      - America in Decline: analysis/america-in-decline.md
+      - Mob Movies & Self-Awareness: analysis/mob-movies-and-self-awareness.md
+      - Religion & Morality: analysis/religion-and-morality.md
+  - Data:
+      - data/index.md
+      - Timeline: data/timeline.md
+      - Awards: data/awards.md
+      - Ratings: data/ratings.md
+      - Body Count: data/body-count.md
+      - Quotes: data/quotes.md
+      - Charts: data/charts.md
+  - Media:
+      - media/index.md
+      - Scenes & Trailers: media/scenes.md
+      - Interviews: media/interviews.md
+      - Craft & Video Essays: media/craft.md
+  - Reference:
+      - reference/index.md
+      - Locations: reference/locations.md
+      - Glossary: reference/glossary.md
+      - Real-World Mafia: reference/real-world-mafia.md
+      - Legacy & Influence: reference/legacy-and-influence.md
+      - Sources & Further Reading: reference/sources.md

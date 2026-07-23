@@ -1,0 +1,23 @@
+# Code owners for The Sopranos Wiki
+#
+# Branch protection on `main` requires code-owner review, so @joedef is
+# automatically requested on every pull request and must approve before it
+# can merge. The catch-all below covers the whole repository; the more
+# specific entries exist to document intent, not to change who reviews.
+
+# Everything
+*                       @joedef
+
+# Site configuration, build, and deployment — changes here can break the
+# published site or the release process.
+/mkdocs.yml             @joedef
+/requirements.txt       @joedef
+/.github/               @joedef
+/overrides/             @joedef
+/scripts/               @joedef
+/docs/assets/           @joedef
+
+# Licensing and contribution terms
+/LICENSE                @joedef
+/LICENSE-CONTENT.md     @joedef
+/CONTRIBUTING.md        @joedef
