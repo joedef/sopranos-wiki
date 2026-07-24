@@ -1,5 +1,10 @@
 ---
 description: "Tony Soprano: DiMeo boss, Melfi's patient, and the character who changed television. His arc, his panic attacks, and what therapy actually did for him."
+entity:
+  type: Person
+  name: "Tony Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Tony_Soprano
 ---
 
 # Tony Soprano

@@ -17,6 +17,8 @@
   {%- set page_desc = (page.meta and page.meta.description) or config.site_description | default('', true) -%}
   {%- set page_url = page.canonical_url | default(config.site_url, true) -%}
   {%- set social_image = config.site_url ~ 'assets/social-card.png' -%}
+  {#- Robust homepage test — page.is_homepage is unreliable across MkDocs versions. -#}
+  {%- set is_home = page and (page.is_homepage or page.canonical_url == config.site_url) -%}
 
   {#- Google Search Console verification. Set extra.google_site_verification in mkdocs.yml. -#}
   {%- if config.extra and config.extra.google_site_verification %}
@@ -24,7 +26,7 @@
   {%- endif %}
 
   <!-- Open Graph -->
-  <meta property="og:type" content="{% if page and page.is_homepage %}website{% else %}article{% endif %}">
+  <meta property="og:type" content="{% if is_home %}website{% else %}article{% endif %}">
   <meta property="og:site_name" content="{{ config.site_name }}">
   <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_desc }}">
@@ -46,7 +48,7 @@
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 
   <!-- Structured data -->
-  {%- if page and page.is_homepage %}
+  {%- if is_home %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -66,9 +68,11 @@
         "endDate": "2007-06-10",
         "numberOfSeasons": 6,
         "numberOfEpisodes": 86,
-        "creator": { "@type": "Person", "name": "David Chase" }
+        "creator": { "@type": "Person", "name": "David Chase" },
+        "sameAs": ["https://en.wikipedia.org/wiki/The_Sopranos"]
       },
-      { "@type": "Movie", "name": "The Many Saints of Newark", "datePublished": "2021" }
+      { "@type": "Movie", "name": "The Many Saints of Newark", "datePublished": "2021",
+        "sameAs": ["https://en.wikipedia.org/wiki/The_Many_Saints_of_Newark"] }
     ]
   }
   </script>
@@ -98,8 +102,44 @@
   </script>
   {%- endif %}
 
+  {#- AEO: entity disambiguation. Front matter `entity: {type, name, sameAs[]}`. -#}
+  {%- if page and page.meta and page.meta.entity %}
+  {%- set e = page.meta.entity %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": {{ (e.type or "Thing") | tojson }},
+    "name": {{ (e.name or page_title) | tojson }},
+    "url": {{ page_url | tojson }},
+    "description": {{ (e.description or page_desc) | tojson }}
+    {%- if e.sameAs %},
+    "sameAs": {{ e.sameAs | tojson }}
+    {%- endif %}
+  }
+  </script>
+  {%- endif %}
+
+  {#- AEO: FAQ rich results. Front matter `faq: [{q, a}, ...]`. -#}
+  {%- if page and page.meta and page.meta.faq %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {%- for qa in page.meta.faq %}
+      {
+        "@type": "Question",
+        "name": {{ qa.q | tojson }},
+        "acceptedAnswer": { "@type": "Answer", "text": {{ qa.a | tojson }} }
+      }{{ "," if not loop.last }}
+      {%- endfor %}
+    ]
+  }
+  </script>
+  {%- endif %}
+
   {#- Breadcrumb trail for search results. Home -> (section) -> page. -#}
-  {%- if page and not page.is_homepage %}
+  {%- if page and not is_home %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

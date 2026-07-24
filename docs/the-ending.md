@@ -1,5 +1,14 @@
 ---
 description: "The Sopranos ending explained: what happens at Holsten's, the cut to black, and every statement David Chase has made about Tony's fate since 2007."
+faq:
+  - q: "Does Tony Soprano die at the end of The Sopranos?"
+    a: "The finale cuts to black mid-scene and never resolves it on screen. Creator David Chase has declined to confirm Tony's fate across statements from 2007 to 2024, and has shifted position more than once. The most common critical reading is that the abrupt cut represents Tony's death from his own point of view — supported by the Members Only jacket, an earlier line that you probably don't hear it when it happens, and a point-of-view edit whose final reverse shot never comes — but the show deliberately leaves it open, and Chase has framed the point as the feeling of permanent hypervigilance rather than a fact."
+  - q: "What is the last song in The Sopranos finale?"
+    a: "\"Don't Stop Believin'\" by Journey, which Tony selects from a tabletop jukebox at Holsten's diner. It plays through the final scene and cuts off mid-word at the cut to black."
+  - q: "Where was the final scene of The Sopranos filmed?"
+    a: "At Holsten's Brookdale Confectionery, a real ice cream parlor in Bloomfield, New Jersey, that is still open."
+  - q: "What episode is the series finale of The Sopranos?"
+    a: "\"Made in America,\" season 6 episode 21, which aired June 10, 2007, written and directed by David Chase. It drew 11.9 million viewers."
 ---
 
 # The Ending

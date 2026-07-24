@@ -1,5 +1,10 @@
 ---
 description: "James Gandolfini: the New Jersey character actor who became Tony Soprano, his three Emmys, what the role cost him, and his death in 2013."
+entity:
+  type: Person
+  name: "James Gandolfini"
+  sameAs:
+    - https://en.wikipedia.org/wiki/James_Gandolfini
 ---
 
 # James Gandolfini

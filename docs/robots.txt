@@ -1,3 +1,7 @@
+# Search engines and answer engines (AEO) are all welcome. The wildcard below
+# allows every crawler, including GPTBot (ChatGPT), OAI-SearchBot, ClaudeBot,
+# PerplexityBot, and Google-Extended (AI Overviews / Gemini). This is a public,
+# openly-licensed reference wiki — being cited by answer engines is the goal.
 User-agent: *
 Allow: /
 

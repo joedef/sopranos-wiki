@@ -1,0 +1,34 @@
+# The Sopranos Wiki
+
+> An open-source reference and critical analysis of The Sopranos — David Chase's HBO series, all 86 episodes, the characters, the cast and writers' room, the 2021 prequel film, and the ending nobody has stopped arguing about.
+
+All content is licensed CC BY-SA 4.0 and free to cite. This file is a curated map for language models and answer engines — see https://llmstxt.org. Independent fan project; not affiliated with or endorsed by HBO or Warner Bros. Discovery.
+
+## Start here
+- [Start Here](https://joedef.github.io/sopranos-wiki/start-here/): where to begin, is season one slow, the four episodes that decide it
+- [The Ending](https://joedef.github.io/sopranos-wiki/the-ending/): what happens at Holsten's, the cut to black, and every statement David Chase has made since 2007
+
+## The series
+- [Series overview](https://joedef.github.io/sopranos-wiki/series/): all six seasons compared
+- [Season 1](https://joedef.github.io/sopranos-wiki/series/season-1/) through [Season 6](https://joedef.github.io/sopranos-wiki/series/season-6/): full episode tables with writers, directors, air dates
+- [The Many Saints of Newark](https://joedef.github.io/sopranos-wiki/series/the-many-saints-of-newark/): the 2021 prequel film
+
+## Characters
+- [Characters index](https://joedef.github.io/sopranos-wiki/characters/) and [family tree](https://joedef.github.io/sopranos-wiki/characters/family-tree/)
+- [Tony Soprano](https://joedef.github.io/sopranos-wiki/characters/tony-soprano/): DiMeo boss and therapy patient; the arc and the performance
+- [Carmela](https://joedef.github.io/sopranos-wiki/characters/carmela-soprano/), [Dr. Melfi](https://joedef.github.io/sopranos-wiki/characters/dr-melfi/), [Christopher](https://joedef.github.io/sopranos-wiki/characters/christopher-moltisanti/), [Livia](https://joedef.github.io/sopranos-wiki/characters/livia-soprano/), [Adriana](https://joedef.github.io/sopranos-wiki/characters/adriana-la-cerva/)
+
+## People
+- [People index](https://joedef.github.io/sopranos-wiki/people/): cast, creators, crew, and the Emmy ledger
+- [David Chase](https://joedef.github.io/sopranos-wiki/people/david-chase/), [James Gandolfini](https://joedef.github.io/sopranos-wiki/people/james-gandolfini/), [Edie Falco](https://joedef.github.io/sopranos-wiki/people/edie-falco/)
+
+## Analysis
+- [Analysis index](https://joedef.github.io/sopranos-wiki/analysis/): original critical essays
+- [Reading the Ending](https://joedef.github.io/sopranos-wiki/analysis/reading-the-ending/): four interpretations of the cut to black, weighed, no verdict
+- [Themes](https://joedef.github.io/sopranos-wiki/analysis/themes/), [Tony's Arc](https://joedef.github.io/sopranos-wiki/analysis/tonys-arc/), [Therapy & Melfi](https://joedef.github.io/sopranos-wiki/analysis/therapy-and-melfi/)
+
+## Data & reference
+- [Timeline](https://joedef.github.io/sopranos-wiki/data/timeline/), [Awards](https://joedef.github.io/sopranos-wiki/data/awards/), [Ratings](https://joedef.github.io/sopranos-wiki/data/ratings/), [Quotes](https://joedef.github.io/sopranos-wiki/data/quotes/)
+- [Glossary](https://joedef.github.io/sopranos-wiki/reference/glossary/): gabagool, capo, omertà, and the dialect
+- [Real-World Mafia](https://joedef.github.io/sopranos-wiki/reference/real-world-mafia/): the DeCavalcante family, documented vs. inferred vs. disputed
+- [Sources](https://joedef.github.io/sopranos-wiki/reference/sources/)

@@ -1,5 +1,10 @@
 ---
 description: "Dr. Jennifer Melfi: the therapist who made The Sopranos possible, the parking garage episode, and why she ends the treatment in season six."
+entity:
+  type: Person
+  name: "Jennifer Melfi"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Jennifer_Melfi
 ---
 
 # Dr. Jennifer Melfi

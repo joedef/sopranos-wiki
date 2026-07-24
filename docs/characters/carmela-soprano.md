@@ -1,5 +1,10 @@
 ---
 description: "Carmela Soprano: the deal she made, the money in her name, Furio, Whitecaps, and why she is the show's hardest moral case."
+entity:
+  type: Person
+  name: "Carmela Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Carmela_Soprano
 ---
 
 # Carmela Soprano

@@ -1,5 +1,10 @@
 ---
 description: "David Chase: creator of The Sopranos, twenty-five years in network TV, his mother as Livia, and eighteen years of refusing to explain the ending."
+entity:
+  type: Person
+  name: "David Chase"
+  sameAs:
+    - https://en.wikipedia.org/wiki/David_Chase
 ---
 
 # David Chase
