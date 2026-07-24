@@ -47,16 +47,18 @@ The season that had to solve an unsolvable problem — its antagonist's actress 
 | 29 | Fortunate Son | Henry J. Bronchtein | Todd A. Kessler | Mar 11, 2001 |
 | 30 | **Employee of the Month** | John Patterson | Robin Green & Mitchell Burgess | Mar 18, 2001 |
 | 31 | Another Toothpick | Jack Bender | Terence Winter | Mar 25, 2001 |
-| 32 | University | Allen Coulter | Terence Winter & Salvatore J. Stabile | Apr 1, 2001 |
+| 32 | University | Allen Coulter | *Story:* David Chase, Terence Winter, Todd A. Kessler, Robin Green & Mitchell Burgess · *Teleplay:* Terence Winter & Salvatore J. Stabile | Apr 1, 2001 |
 | 33 | Second Opinion | Tim Van Patten | Lawrence Konner | Apr 8, 2001 |
 | 34 | He Is Risen | Allen Coulter | Robin Green, Mitchell Burgess & Todd A. Kessler | Apr 15, 2001 |
 | 35 | The Telltale Moozadell | Dan Attias | Michael Imperioli | Apr 22, 2001 |
 | 36 | …To Save Us All from Satan's Power | Jack Bender | Robin Green & Mitchell Burgess | Apr 29, 2001 |
-| 37 | **Pine Barrens** | Steve Buscemi | Terence Winter | May 6, 2001 |
-| 38 | Amour Fou | Tim Van Patten | Frank Renzulli | May 13, 2001 |
+| 37 | **Pine Barrens** | Steve Buscemi | *Story:* Tim Van Patten & Terence Winter · *Teleplay:* Terence Winter | May 6, 2001 |
+| 38 | Amour Fou | Tim Van Patten | *Story:* David Chase · *Teleplay:* Frank Renzulli | May 13, 2001 |
 | 39 | Army of One | John Patterson | David Chase & Lawrence Konner | May 20, 2001 |
 
 </div>
+
+*Where an episode carries separate story and teleplay credits, both are listed.*
 
 ---
 
@@ -84,7 +86,7 @@ Tony's reaction is the point. He hits Ralph — a serious breach, striking a mad
 
 ## "Pine Barrens"
 
-Directed by **Steve Buscemi** — his first for the show, three seasons before he was cast in it — and written by Terence Winter.
+Directed by **Steve Buscemi** — his first for the show, three seasons before he was cast in it. Teleplay by **Terence Winter**, from a story by **Tim Van Patten and Terence Winter**.
 
 [Paulie](../characters/paulie-walnuts.md) and [Christopher](../characters/christopher-moltisanti.md) go to collect from a Russian, **Valery**. Paulie provokes him, they think they've killed him, and they drive him out to the Pine Barrens to bury him. He is not dead. He is, per Paulie's telephone game of a briefing, possibly a former commando who killed sixteen Czechoslovakians, or possibly an interior decorator. He hits Paulie with a shovel and disappears into the woods.
 

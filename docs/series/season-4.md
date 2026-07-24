@@ -44,19 +44,21 @@ The most divisive season, the most rewarding on rewatch, and the one where the s
 | ---: | --- | --- | --- | --- |
 | 40 | For All Debts Public and Private | Allen Coulter | David Chase | Sep 15, 2002 |
 | 41 | No Show | John Patterson | Terence Winter & David Chase | Sep 22, 2002 |
-| 42 | Christopher | Tim Van Patten | Michael Imperioli | Sep 29, 2002 |
+| 42 | Christopher | Tim Van Patten | *Story:* Michael Imperioli & Maria Laurino · *Teleplay:* Michael Imperioli | Sep 29, 2002 |
 | 43 | The Weight | Jack Bender | Terence Winter | Oct 6, 2002 |
 | 44 | Pie-O-My | Henry J. Bronchtein | Robin Green & Mitchell Burgess | Oct 13, 2002 |
 | 45 | Everybody Hurts | Steve Buscemi | Michael Imperioli | Oct 20, 2002 |
-| 46 | Watching Too Much Television | John Patterson | Terence Winter & Nick Santora | Oct 27, 2002 |
-| 47 | Mergers and Acquisitions | Dan Attias | Lawrence Konner | Nov 3, 2002 |
+| 46 | Watching Too Much Television | John Patterson | *Story:* David Chase, Robin Green, Mitchell Burgess & Terence Winter · *Teleplay:* Terence Winter & Nick Santora | Oct 27, 2002 |
+| 47 | Mergers and Acquisitions | Dan Attias | *Story:* David Chase, Robin Green, Mitchell Burgess & Terence Winter · *Teleplay:* Lawrence Konner | Nov 3, 2002 |
 | 48 | **Whoever Did This** | Tim Van Patten | Robin Green & Mitchell Burgess | Nov 10, 2002 |
-| 49 | The Strong, Silent Type | Alan Taylor | Terence Winter, Robin Green & Mitchell Burgess | Nov 17, 2002 |
-| 50 | Calling All Cars | Tim Van Patten | David Chase, Robin Green, Mitchell Burgess & David Flebotte | Nov 24, 2002 |
+| 49 | The Strong, Silent Type | Alan Taylor | *Story:* David Chase · *Teleplay:* Terence Winter, Robin Green & Mitchell Burgess | Nov 17, 2002 |
+| 50 | Calling All Cars | Tim Van Patten | *Story:* David Chase, Robin Green, Mitchell Burgess & Terence Winter · *Teleplay:* David Chase, Robin Green, Mitchell Burgess & David Flebotte | Nov 24, 2002 |
 | 51 | Eloise | James Hayman | Terence Winter | Dec 1, 2002 |
 | 52 | **Whitecaps** | John Patterson | Robin Green, Mitchell Burgess & David Chase | Dec 8, 2002 |
 
 </div>
+
+*Where an episode carries separate story and teleplay credits, both are listed.*
 
 ---
 
