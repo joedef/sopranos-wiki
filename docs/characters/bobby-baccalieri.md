@@ -1,5 +1,11 @@
 ---
 description: "Bobby Baccalieri: the decent one, the trains, the fistfight at the lake house, and the line about never hearing it when it happens."
+entity:
+  type: Person
+  name: "Bobby Baccalieri"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Bobby_Baccalieri
+    - https://www.wikidata.org/wiki/Q2557030
 ---
 
 # Bobby "Bacala" Baccalieri

@@ -1,5 +1,11 @@
 ---
 description: "Joe Pantoliano: won the 2003 Emmy for Ralph Cifaretto, a character killed off in episode nine, and his advocacy on mental health."
+entity:
+  type: Person
+  name: "Joe Pantoliano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Joe_Pantoliano
+    - https://www.wikidata.org/wiki/Q296883
 ---
 
 # Joe Pantoliano

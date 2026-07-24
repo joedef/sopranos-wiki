@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 2 (2000): all 13 episodes with credits, the Big Pussy informant arc, Richie Aprile, and the Funhouse finale."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 2"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_2
+    - https://www.wikidata.org/wiki/Q3468641
 ---
 
 # Season 2 (2000)

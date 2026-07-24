@@ -1,5 +1,11 @@
 ---
 description: "Vincent Pastore: Big Pussy Bonpensiero, the New Rochelle nightclub owner turned actor, and one of 27 Goodfellas crossovers."
+entity:
+  type: Person
+  name: "Vincent Pastore"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Vincent_Pastore
+    - https://www.wikidata.org/wiki/Q512986
 ---
 
 # Vincent Pastore

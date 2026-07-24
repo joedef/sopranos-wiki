@@ -1,5 +1,11 @@
 ---
 description: "Janice Soprano: Tony's sister, serial seeker, the woman who shot Richie Aprile at the dinner table, and the most like her mother."
+entity:
+  type: Person
+  name: "Janice Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Janice_Soprano
+    - https://www.wikidata.org/wiki/Q2567153
 ---
 
 # Janice Soprano

@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 4 (2002): all 13 episodes with credits, the money running out, Whoever Did This, and the Whitecaps finale."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 4"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_4
+    - https://www.wikidata.org/wiki/Q3727040
 ---
 
 # Season 4 (2002)

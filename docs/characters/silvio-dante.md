@@ -1,5 +1,11 @@
 ---
 description: "Silvio Dante: DiMeo consigliere, Bada Bing manager, the Pacino impression, and the man who does what has to be done."
+entity:
+  type: Person
+  name: "Silvio Dante"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Silvio_Dante
+    - https://www.wikidata.org/wiki/Q2326089
 ---
 
 # Silvio Dante

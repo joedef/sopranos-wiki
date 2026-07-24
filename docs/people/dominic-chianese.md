@@ -1,5 +1,11 @@
 ---
 description: "Dominic Chianese: Junior Soprano, Johnny Ola in The Godfather Part II, and a working singer well into his nineties."
+entity:
+  type: Person
+  name: "Dominic Chianese"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Dominic_Chianese
+    - https://www.wikidata.org/wiki/Q460688
 ---
 
 # Dominic Chianese

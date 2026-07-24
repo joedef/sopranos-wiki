@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 1 (1999): all 13 episodes with writers, directors, and air dates, plus the College controversy that defined the show."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 1"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_1
+    - https://www.wikidata.org/wiki/Q5274359
 ---
 
 # Season 1 (1999)

@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 6 (2006-07): all 21 episodes with credits, the coma and the Kevin Finnerty episodes, Vito, Kennedy and Heidi, and Made in America."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 6"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_6
+    - https://www.wikidata.org/wiki/Q3727044
 ---
 
 # Season 6 (2006–07)

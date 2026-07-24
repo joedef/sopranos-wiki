@@ -1,5 +1,11 @@
 ---
 description: "Christopher Moltisanti: heir apparent, addict, aspiring screenwriter, and the arc that ends at a crash site in Kennedy and Heidi."
+entity:
+  type: Person
+  name: "Christopher Moltisanti"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Christopher_Moltisanti
+    - https://www.wikidata.org/wiki/Q2335344
 ---
 
 # Christopher Moltisanti

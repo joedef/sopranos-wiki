@@ -1,5 +1,11 @@
 ---
 description: "Corrado 'Junior' Soprano: the uncle who ordered a hit on Tony, took the boss title as a decoy, and shot his nephew during dementia."
+entity:
+  type: Person
+  name: "Junior Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Junior_Soprano
+    - https://www.wikidata.org/wiki/Q2463141
 ---
 
 # Corrado "Junior" Soprano

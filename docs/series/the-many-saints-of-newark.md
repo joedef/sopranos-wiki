@@ -1,5 +1,11 @@
 ---
 description: "The Many Saints of Newark (2021): the Sopranos prequel film, its cast, the 1967 Newark riots setting, and why it underperformed."
+entity:
+  type: Movie
+  name: "The Many Saints of Newark"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Many_Saints_of_Newark
+    - https://www.wikidata.org/wiki/Q62115813
 ---
 
 # The Many Saints of Newark (2021)

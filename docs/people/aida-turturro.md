@@ -1,5 +1,11 @@
 ---
 description: "Aida Turturro: Janice Soprano, and the Broadway production of A Streetcar Named Desire where she met James Gandolfini in 1992."
+entity:
+  type: Person
+  name: "Aida Turturro"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Aida_Turturro
+    - https://www.wikidata.org/wiki/Q115134
 ---
 
 # Aida Turturro

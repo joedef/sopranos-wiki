@@ -1,5 +1,11 @@
 ---
 description: "Steven Van Zandt: E Street Band guitarist who had never acted, auditioned for Tony Soprano, and had Silvio Dante written for him."
+entity:
+  type: Person
+  name: "Steven Van Zandt"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Steven_Van_Zandt
+    - https://www.wikidata.org/wiki/Q354181
 ---
 
 # Steven Van Zandt

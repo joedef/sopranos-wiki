@@ -1,5 +1,11 @@
 ---
 description: "Nancy Marchand: the patrician stage actress cast as Livia Soprano, her Golden Globe, and her death during the run in June 2000."
+entity:
+  type: Person
+  name: "Nancy Marchand"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Nancy_Marchand
+    - https://www.wikidata.org/wiki/Q257065
 ---
 
 # Nancy Marchand

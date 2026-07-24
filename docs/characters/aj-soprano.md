@@ -1,5 +1,11 @@
 ---
 description: "A.J. Soprano: the son who inherited the depression and none of the capability, the pool scene, and why he's the show's cruellest creation."
+entity:
+  type: Person
+  name: "A.J. Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/A.J._Soprano
+    - https://www.wikidata.org/wiki/Q2723839
 ---
 
 # Anthony "A.J." Soprano Jr.

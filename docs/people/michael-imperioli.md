@@ -1,5 +1,11 @@
 ---
 description: "Michael Imperioli: Emmy-winning Christopher Moltisanti, writer of five Sopranos episodes, Goodfellas' Spider, and Talking Sopranos."
+entity:
+  type: Person
+  name: "Michael Imperioli"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Michael_Imperioli
+    - https://www.wikidata.org/wiki/Q317358
 ---
 
 # Michael Imperioli

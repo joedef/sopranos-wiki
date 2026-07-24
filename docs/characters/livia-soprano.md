@@ -1,5 +1,11 @@
 ---
 description: "Livia Soprano: Tony's mother, based on David Chase's own, the woman who ordered a hit on her son without ever saying so."
+entity:
+  type: Person
+  name: "Livia Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Livia_Soprano
+    - https://www.wikidata.org/wiki/Q2567137
 ---
 
 # Livia Soprano

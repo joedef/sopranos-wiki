@@ -1,5 +1,11 @@
 ---
 description: "Tony Sirico: Paulie Walnuts, a real criminal record, Sing Sing, and the one condition he set before taking the part."
+entity:
+  type: Person
+  name: "Tony Sirico"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Tony_Sirico
+    - https://www.wikidata.org/wiki/Q726201
 ---
 
 # Tony Sirico

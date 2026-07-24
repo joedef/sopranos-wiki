@@ -1,5 +1,11 @@
 ---
 description: "Adriana La Cerva: coerced into informing for the FBI, the least culpable person in The Sopranos, and Long Term Parking."
+entity:
+  type: Person
+  name: "Adriana La Cerva"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Adriana_La_Cerva
+    - https://www.wikidata.org/wiki/Q2463192
 ---
 
 # Adriana La Cerva

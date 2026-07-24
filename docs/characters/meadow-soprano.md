@@ -1,5 +1,11 @@
 ---
 description: "Meadow Soprano: the daughter who was going to get out, her arc from Columbia to defending her father, and the parking space in the finale."
+entity:
+  type: Person
+  name: "Meadow Soprano"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Meadow_Soprano
+    - https://www.wikidata.org/wiki/Q2456679
 ---
 
 # Meadow Soprano

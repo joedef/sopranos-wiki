@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 3 (2001): all 13 episodes with credits, Livia's death after Nancy Marchand died, Ralph Cifaretto, and Pine Barrens."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 3"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_3
+    - https://www.wikidata.org/wiki/Q3468817
 ---
 
 # Season 3 (2001)

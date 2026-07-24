@@ -1,5 +1,11 @@
 ---
 description: "Drea de Matteo: Emmy-winning Adriana La Cerva, cast originally as a one-line waitress, and the death nobody recovered from."
+entity:
+  type: Person
+  name: "Drea de Matteo"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Drea_de_Matteo
+    - https://www.wikidata.org/wiki/Q232965
 ---
 
 # Drea de Matteo

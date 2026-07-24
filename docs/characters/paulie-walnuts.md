@@ -1,5 +1,11 @@
 ---
 description: "Paulie Walnuts Gualtieri: the funniest and most dangerous man in the DiMeo crew, Pine Barrens, and the one who survives everything."
+entity:
+  type: Person
+  name: "Paulie Gualtieri"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Paulie_Gualtieri
+    - https://www.wikidata.org/wiki/Q2326044
 ---
 
 # Paulie "Walnuts" Gualtieri

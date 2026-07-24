@@ -1,5 +1,11 @@
 ---
 description: "The Sopranos season 5 (2004): all 13 episodes with credits, Tony Blundetto and the class of 2004, The Test Dream, and Long Term Parking."
+entity:
+  type: TVSeason
+  name: "The Sopranos season 5"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sopranos_season_5
+    - https://www.wikidata.org/wiki/Q3727041
 ---
 
 # Season 5 (2004)

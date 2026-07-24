@@ -1,5 +1,11 @@
 ---
 description: "Lorraine Bracco: offered Carmela, chose Dr. Melfi, Oscar-nominated for Goodfellas, and four Emmy nominations without a win."
+entity:
+  type: Person
+  name: "Lorraine Bracco"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Lorraine_Bracco
+    - https://www.wikidata.org/wiki/Q229319
 ---
 
 # Lorraine Bracco
