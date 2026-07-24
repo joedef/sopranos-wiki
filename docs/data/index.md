@@ -31,7 +31,7 @@ Compiled from the episodes and cross-checked against public records. Where sourc
 | **Peabody Awards** | 2 (2000, 2001) |
 | **SAG Awards** | 8 wins from 26 nominations |
 | **Peak episode** | 13.43M — season 4 premiere |
-| **Finale** | 11.9M — a 49% jump on the previous week |
+| **Finale** | 11.9M — a 49% jump on the previous episode |
 | **Highest season average** | 10.99M — season 4 |
 | **Episodes directed by David Chase** | **2** — the pilot and the finale |
 | **Actors in both *Goodfellas* and *The Sopranos*** | **27** |

@@ -70,7 +70,7 @@ The short version of why it needs a wiki: *The Sopranos* is a series about a man
 | [**3**](series/season-3.md) | 13 | Mar–May 2001 | 8.87M |
 | [**4**](series/season-4.md) | 13 | Sep–Dec 2002 | 10.99M |
 | [**5**](series/season-5.md) | 13 | Mar–Jun 2004 | 9.80M |
-| [**6**](series/season-6.md) | 21 | Mar 2006 – Jun 2007 | 8.64M / 7.73M |
+| [**6**](series/season-6.md) | 21 | Mar 2006 – Jun 2007 | 8.60M / 8.23M |
 
 Plus [***The Many Saints of Newark***](series/the-many-saints-of-newark.md) (2021), the prequel film in which James Gandolfini's son plays his father's character.
 

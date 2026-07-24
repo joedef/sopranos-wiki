@@ -17,10 +17,10 @@ Episodes
 :   **21** — split into two parts
 
 Part 1
-:   12 eps, March 12 – June 4, 2006 · 8.64M avg
+:   12 eps, March 12 – June 4, 2006 · 8.60M avg
 
 Part 2
-:   9 eps, April 8 – June 10, 2007 · 7.73M avg
+:   9 eps, April 8 – June 10, 2007 · 8.23M avg
 
 Finale
 :   11.9M viewers

@@ -24,7 +24,7 @@ This page is the factual account: what is on screen, what Chase has said, and wh
 
 ## What is actually on screen
 
-The episode is **"Made in America"** (S6E21), written and directed by David Chase, watched by **11.9 million** people — a 49% jump on the previous week.
+The episode is **"Made in America"** (S6E21), written and directed by David Chase, watched by **11.9 million** people — a 49% jump on the previous episode.
 
 The final scene is at **Holsten's Brookdale Confectionery** in Bloomfield, New Jersey, a real ice cream parlor that is still open.
 

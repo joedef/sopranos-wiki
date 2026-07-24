@@ -20,7 +20,7 @@ Eighty-six episodes across six seasons, January 10, 1999 to June 10, 2007.
 | [**3**](season-3.md) | 13 | Mar 4 – May 20, 2001 | 8.87M | Livia dies, Ralph arrives, and the kids stop being kids |
 | [**4**](season-4.md) | 13 | Sep 15 – Dec 8, 2002 | 10.99M | The money gets tight and the marriage doesn't survive it |
 | [**5**](season-5.md) | 13 | Mar 7 – Jun 6, 2004 | 9.80M | The class of '04 comes home from prison |
-| [**6**](season-6.md) | 21 | Mar 12, 2006 – Jun 10, 2007 | 8.64M / 7.73M | Tony is shot, sees the other side, and comes back worse |
+| [**6**](season-6.md) | 21 | Mar 12, 2006 – Jun 10, 2007 | 8.60M / 8.23M | Tony is shot, sees the other side, and comes back worse |
 
 Season 6 was released in two parts — 12 episodes in 2006, 9 in 2007 — but it is one season, and it plays as one.
 

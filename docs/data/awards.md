@@ -60,7 +60,7 @@ Plus wins in casting, editing, and other craft categories, making 21 in total.
 
 **Steve Buscemi** — nominated for [Tony Blundetto](../characters/tony-blundetto.md), no win.
 
-And the show lost Outstanding Drama Series in **1999, 2000, 2001, 2002, 2003, and 2006** — six defeats before its first win, mostly to *The West Wing*, which is now the standard example of Emmy voters preferring the reassuring option.
+And the show lost Outstanding Drama Series in **1999, 2000, 2001, 2003, and 2006** — five defeats before its first win, mostly to *The West Wing*, which is now the standard example of Emmy voters preferring the reassuring option. It was nominated **seven times in total, in every year it was eligible**; the long hiatuses between seasons left it out of contention entirely in some years, including 2002.
 
 ---
 

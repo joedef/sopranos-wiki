@@ -17,8 +17,8 @@ The show's audience **tripled** between 1999 and 2002 — almost entirely on wor
 | **3** | 2001 | 13 | **8.87M** |
 | **4** | 2002 | 13 | **10.99M** |
 | **5** | 2004 | 13 | **9.80M** |
-| **6 pt. 1** | 2006 | 12 | **8.64M** |
-| **6 pt. 2** | 2007 | 9 | **7.73M** |
+| **6 pt. 1** | 2006 | 12 | **8.60M** |
+| **6 pt. 2** | 2007 | 9 | **8.23M** |
 
 <div class="chart" markdown>
 
@@ -42,14 +42,14 @@ The show's audience **tripled** between 1999 and 2002 — almost entirely on wor
 
 <div class="chart-row">
 <div class="chart-label">S6 pt.1 (2006)</div>
-<div class="chart-track"><div class="chart-bar" style="width:79%"></div></div>
-<div class="chart-value">8.64M</div>
+<div class="chart-track"><div class="chart-bar" style="width:78%"></div></div>
+<div class="chart-value">8.60M</div>
 </div>
 
 <div class="chart-row">
 <div class="chart-label">S6 pt.2 (2007)</div>
-<div class="chart-track"><div class="chart-bar" style="width:70%"></div></div>
-<div class="chart-value">7.73M</div>
+<div class="chart-track"><div class="chart-bar" style="width:75%"></div></div>
+<div class="chart-value">8.23M</div>
 </div>
 
 <div class="chart-row">
@@ -77,9 +77,9 @@ Average US viewers per season, premiere airings. Season one is highlighted becau
 | --- | ---: |
 | **"For All Debts Public and Private"** (S4E1) — series peak | **13.43M** |
 | **"Made in America"** (S6E21) — the finale | **11.90M** |
-| **"The Sopranos"** (S1E1) — the pilot | ~3.5M |
+| **"The Sopranos"** (S1E1) — the pilot | 3.45M |
 
-The finale drew a **49% increase** over the previous week — a jump that reflects an audience showing up specifically for an ending, which is exactly the appetite Chase then declined to satisfy. See [The Ending](../the-ending.md).
+The finale drew a **49% increase over the previous episode** — its best figure of either half of season six, and the show's largest audience since the season-five premiere. That jump reflects an audience showing up specifically for an ending, which is exactly the appetite Chase then declined to satisfy. See [The Ending](../the-ending.md).
 
 ---
 
@@ -91,9 +91,9 @@ The finale drew a **49% increase** over the previous week — a jump that reflec
 
 **Season five's dip is not decline.** It followed a **21-month gap** after season four. Holding at 9.8M after nearly two years off is unusually strong retention.
 
-**Season six's split hurt.** Twelve episodes in 2006, then a **ten-month gap**, then nine more in 2007. Part two lost about a million viewers a week against part one — the cost of an unusual scheduling decision.
+**Season six's split cost less than you'd expect.** Twelve episodes in 2006, then a **ten-month gap**, then nine more in 2007. Part two averaged 8.23M against part one's 8.60M — a loss of under 400,000 a week across a ten-month absence, which is remarkable retention rather than a collapse.
 
-**None of this is decline in the normal sense.** The show's lowest-rated season is its first, and its finale is its second-most-watched episode.
+**None of this is decline in the normal sense.** The show's lowest-rated season is its first, and the finale is among its most-watched episodes — though the peak remains the season-four premiere at 13.43M.
 
 ---
 

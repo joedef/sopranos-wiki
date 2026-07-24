@@ -34,14 +34,14 @@ Underlying figures and caveats: [Ratings](ratings.md), [Awards](awards.md), [Bod
 
 <div class="chart-row">
 <div class="chart-label">S6 pt.1 (2006)</div>
-<div class="chart-track"><div class="chart-bar" style="width:79%"></div></div>
-<div class="chart-value">8.64M</div>
+<div class="chart-track"><div class="chart-bar" style="width:78%"></div></div>
+<div class="chart-value">8.60M</div>
 </div>
 
 <div class="chart-row">
 <div class="chart-label">S6 pt.2 (2007)</div>
-<div class="chart-track"><div class="chart-bar" style="width:70%"></div></div>
-<div class="chart-value">7.73M</div>
+<div class="chart-track"><div class="chart-bar" style="width:75%"></div></div>
+<div class="chart-value">8.23M</div>
 </div>
 
 <div class="chart-row">
@@ -134,13 +134,13 @@ Acting and writing wins only. The bottom two rows are the record's most conspicu
 
 <div class="chart-row">
 <div class="chart-label">Season 5</div>
-<div class="chart-track"><div class="chart-bar" style="width:70%"></div></div>
+<div class="chart-track"><div class="chart-bar" style="width:75%"></div></div>
 <div class="chart-value">7</div>
 </div>
 
 <div class="chart-row">
 <div class="chart-label">Season 1</div>
-<div class="chart-track"><div class="chart-bar" style="width:70%"></div></div>
+<div class="chart-track"><div class="chart-bar" style="width:75%"></div></div>
 <div class="chart-value">7</div>
 </div>
 
